@@ -1,0 +1,43 @@
+body{
+    background-color: black;
+    color: white;
+    margin-left: 7%;
+}
+
+.topo ul li{
+    display: inline-block;
+    margin-right: 0%;
+}
+
+#listatopo{
+    margin-left: 25%;
+}
+
+.meio_esq{
+    margin-top: 5%;
+    margin-left: 3%;
+}
+
+#meio_1{
+    margin-left: 10%;
+    font-size: 150%;
+}
+
+.meio_2 ul li{
+    display: inline-block;
+}
+
+.meio_3 ul li{
+    display: inline-block;
+}
+
+.meio_dir{
+    float: right;
+    margin-top: -5%;
+    margin-right: 10%;
+
+}
+
+#botao{
+    margin-left: 623%;
+}
